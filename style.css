@@ -77,6 +77,14 @@ ABOUT
     color: rgba(red, green, blue, alpha);
 
 }
+p{
+    font-size: 15px;
+    width: -15px;
+    height: 21%;
+    width: 57%;
+    position: relative;
+    left: 23%;
+}
 
 
 /**********
@@ -106,4 +114,12 @@ PROJECT
 #about p {
     font-size: 15px;
 
+}
+#navbartogler{
+    position: relative;
+    left: 88%
+}
+#navbarToggler {
+    position: relative;
+    left: 84%;
 }
